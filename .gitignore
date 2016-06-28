@@ -1,0 +1,23 @@
+# General Ignores
+*~
+*.o
+\#*#
+core
+*.tgz
+.DS_Store
+
+# Node Ignores
+npm-debug.log
+node_modules
+instantclient
+/build/*
+/examples/clobstream1out.txt
+/examples/clobstream2out.txt
+/examples/blobstream1out.jpg
+/examples/blobstream2out.jpg
+
+# Oracle Ignores
+sqlnet.log
+sqlnet.ora
+tnsnames.ora
+oraaccess.xml
