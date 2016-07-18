@@ -59,6 +59,8 @@
   "engines": {
     "node": ">=0.10.28 <6"
   },
+  "os" : ["darwin", "linux", "win32"],
+  "cpu": ["x64", "ia32"],
   "maintainers": [
     {
       "name": "Oracle Corp."
